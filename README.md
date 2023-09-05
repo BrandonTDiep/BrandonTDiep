@@ -41,7 +41,7 @@
       <h3 align="center">Styles Conference</h3>
         <br />
       <a target="_blank" href="https://thestyleconference.netlify.app/">
-            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+            <img src="images/styleconference.gif" width="100%"  alt="Styles Conference"/>
         </a>
         <br />
         <p align="center">
