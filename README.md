@@ -22,7 +22,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Blossom Hair Salon</h3>
         <br />
-        <a target="_blank" href="https://github.com/BrandonTDiep/Blossom-Hair-Salon">
+        <a target="_blank" href="https://blossomhairsalon.netlify.app/">
             <img src="images/blossom-hair-salon.gif" width="100%" alt="Blossom Hair Salon"/>
         </a>
         <br />
@@ -37,6 +37,24 @@
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Blossom Hair Salon site debuting stylists, gallery of looks and services.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Styles Conference</h3>
+        <br />
+      <a target="_blank" href="https://thestyleconference.netlify.app/">
+            <img src="images/gif2.gif" width="100%"  alt="Rigley 2"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/BrandonTDiep/Styles-conference" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://thestyleconference.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3</strong> - Styles Conference site debuting speakers, schedule, venue info, and registration form.</p>
+    </td>    
   </tr>
           
 </table>
