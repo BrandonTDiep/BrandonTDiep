@@ -25,7 +25,7 @@
       <h3 align="center">Blossom Hair Salon</h3>
         <br />
         <a target="_blank" href="https://blossomhairsalon.netlify.app/">
-            <img src="images/blossom-hair-salon.gif" width="100%" alt="Blossom Hair Salon"/>
+            <img src="images/blossomhairsalon.gif" width="100%" alt="Blossom Hair Salon"/>
         </a>
         <br />
         <p align="center">
