@@ -29,16 +29,15 @@
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/BrandonTDiep/Blossom-Hair-Salon" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
-  </a>  
-  <a href="https://blossomhairsalon.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
-  </a>
-      </p>
+          <a href="https://github.com/BrandonTDiep/Blossom-Hair-Salon" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://blossomhairsalon.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+          </a>
+        </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Blossom Hair Salon site debuting stylists, gallery of looks and services.</p>
-    </td>
+    </td>  
     <td width="50%" valign="top">
       <h3 align="center">Styles Conference</h3>
         <br />
@@ -47,16 +46,33 @@
         </a>
         <br />
         <p align="center">
-          
-  <a href="https://github.com/BrandonTDiep/Styles-conference" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://thestyleconference.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
+          <a href="https://github.com/BrandonTDiep/Styles-conference" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/
+          </a>
+          <a href="https://thestyleconference.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+          </a>
+        </p>
         <p><strong>HTML5, CSS3</strong> - Styles Conference site debuting speakers, schedule, venue info, and registration form.</p>
-    </td>    
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Stargazers Society</h3>
+        <br />
+        <a target="_blank" href="https://stargazerssociety.netlify.app/">
+            <img src="images/stargazer.gif" width="100%" alt="Stargazers Society"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/BrandonTDiep/Stargazers-Society" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://stargazerssociety.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Stargazers Society site integrating NASA API APOD to display astronomy picture of the day and its description.</p>
+    </td>      
+    
   </tr>
           
 </table>
