@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Brandon Diep</h1>
 <h3 align="center">A passionate software engineer learning everyday and improving.</h3>
 
-- 🌱 I’m currently learning **more JavaScript**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS**
+- 💬 Ask me about **HTML, CSS, JavaScript**
 
 - 📫 How to reach me **brandondiep2711@gmail.com**
 
