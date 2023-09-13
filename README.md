@@ -54,8 +54,12 @@
           </a>
         </p>
         <p><strong>HTML5, CSS3</strong> - Styles Conference site debuting speakers, schedule, venue info, and registration form.</p>
-    </td>
-    <td width="50%" valign="top">
+    </td>    
+  </tr>
+
+  
+  <tr>
+    <td width="100%" valign="top">
       <h3 align="center">Stargazers Society</h3>
         <br />
         <a target="_blank" href="https://stargazerssociety.netlify.app/">
@@ -71,8 +75,8 @@
           </a>
         </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Stargazers Society site integrating NASA API APOD to display astronomy picture of the day and its description.</p>
-    </td>      
-    
+    </td>   
   </tr>
-          
+
+         
 </table>
