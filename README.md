@@ -59,7 +59,7 @@
 
   
   <tr>
-    <td width="100%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Stargazers Society</h3>
         <br />
         <a target="_blank" href="https://stargazerssociety.netlify.app/">
