@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Diep</h1>
 <h3 align="center">A passionate software engineer learning everyday and improving.</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node.js**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
