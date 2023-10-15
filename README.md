@@ -42,7 +42,7 @@
       <h3 align="center">Mama's Recipes</h3>
         <br />
       <a target="_blank" href="https://github.com/BrandonTDiep/mama-recipe">
-            <img src="images/mamarecipe.gif" width="100%"  alt="Mama's Recipes Gif"/>
+            <img src="images/mama-recipe.gif" width="100%"  alt="Mama's Recipes Gif"/>
         </a>
         <br />
         <p align="center">
