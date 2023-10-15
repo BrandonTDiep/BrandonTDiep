@@ -38,7 +38,7 @@
         </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Blossom Hair Salon site debuting stylists, gallery of looks and services.</p>
     </td>  
-    <td width="50%" valign="top">
+    <td width="50%" height="50%" valign="top">
       <h3 align="center">Mama's Recipes</h3>
         <br />
       <a target="_blank" href="https://github.com/BrandonTDiep/mama-recipe">
