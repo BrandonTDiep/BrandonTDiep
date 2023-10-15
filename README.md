@@ -25,7 +25,7 @@
       <h3 align="center">Blossom Hair Salon</h3>
         <br />
         <a target="_blank" href="https://blossomhairsalon.netlify.app/">
-            <img src="images/blossomhairsalon.gif" width="100%" alt="Blossom Hair Salon"/>
+            <img src="images/blossomhairsalon.gif" width="100%" alt="Blossom Hair Salon Gif"/>
         </a>
         <br />
         <p align="center">
@@ -39,21 +39,21 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Blossom Hair Salon site debuting stylists, gallery of looks and services.</p>
     </td>  
     <td width="50%" valign="top">
-      <h3 align="center">Styles Conference</h3>
+      <h3 align="center">Mama's Recipes</h3>
         <br />
-      <a target="_blank" href="https://thestyleconference.netlify.app/">
-            <img src="images/styleconference.gif" width="100%"  alt="Styles Conference"/>
+      <a target="_blank" href="https://github.com/BrandonTDiep/mama-recipe">
+            <img src="images/mama-recipe.gif" width="100%"  alt="Mama's Recipes Gif"/>
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/BrandonTDiep/Styles-conference" target="_blank">
+          <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/
           </a>
-          <a href="https://thestyleconference.netlify.app/" target="_blank">
+<!--           <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a>
+          </a> -->
         </p>
-        <p><strong>HTML5, CSS3</strong> - Styles Conference site debuting speakers, schedule, venue info, and registration form.</p>
+        <p><strong>Dart, Flutter, Firebase</strong> - Mama's Recipe app made for anyone looking for an easy way to save their beloved mama's recipes.</p>
     </td>    
   </tr>
 
@@ -63,7 +63,7 @@
       <h3 align="center">Stargazers Society</h3>
         <br />
         <a target="_blank" href="https://stargazerssociety.netlify.app/">
-            <img src="images/stargazer.gif" width="100%" alt="Stargazers Society"/>
+            <img src="images/stargazer.gif" width="100%" alt="Stargazers Society Gif"/>
         </a>
         <br />
         <p align="center">
@@ -80,7 +80,7 @@
       <h3 align="center">Patient Scheduling System</h3>
         <br />
         <a target="_blank" href="https://github.com/CS3560-01-2-patient/patient-scheduling-system">
-            <img src="images/pss.gif" width="100%" alt="Stargazers Society"/>
+            <img src="images/pss.gif" width="100%" alt="Patient Scheduling System Gif"/>
         </a>
         <br />
         <p align="center">
