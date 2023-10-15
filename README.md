@@ -74,7 +74,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Java, SQL</strong> - a scheduling system that helps patients make an account and schedule appointments</p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Stargazers Society site integrating NASA API APOD to display astronomy picture of the day and its description.</p>
     </td>   
     <td width="50%" valign="top">
       <h3 align="center">Patient Scheduling System</h3>
@@ -91,7 +91,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
           </a> -->
         </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Stargazers Society site integrating NASA API APOD to display astronomy picture of the day and its description.</p>
+        <p><strong>Java, SQL</strong> - A Patient Scheduling System that helps patients create an account and schedule appointments</p>
     </td>     
   </tr>
 
