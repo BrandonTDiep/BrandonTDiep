@@ -24,7 +24,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Cookie Clicker Game</h3>
         <br />
-        <a target="_blank" href="https://github.com/CS4650FallSemester2023/FinalProject">
+        <a target="_blank" href="http://129.153.90.80:3000/">
             <img src="images/cookie-clicker.gif" width="100%" alt="Cookie Clicker Game Gif"/>
         </a>
         <br />
@@ -32,9 +32,9 @@
           <a href="https://github.com/CS4650FallSemester2023/FinalProject" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
           </a>  
-<!--           <a href="https://github.com/CS4650FallSemester2023/FinalProject" target="_blank">
+          <a href="http://129.153.90.80:3000/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
-          </a> -->
+          </a>
         </p>
         <p><strong>React, Django</strong> - Cookie Clicker Game with online saves and a leaderboard.</p>
     </td>  
