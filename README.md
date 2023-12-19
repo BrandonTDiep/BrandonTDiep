@@ -36,7 +36,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
           </a> -->
         </p>
-        <p><strong>React, Django</strong> - Cookie Clicker Game with online saves and leaderboard</p>
+        <p><strong>React, Django</strong> - Cookie Clicker Game with online saves and a leaderboard.</p>
     </td>  
     <td width="50%" height="10%" valign="top">
       <h3 align="center">Mama's Recipes</h3>
