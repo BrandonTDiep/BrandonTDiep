@@ -11,8 +11,11 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
+
 <h1 align="center">Hi 👋, I'm Brandon Diep</h1>
 <h3 align="center">A passionate software engineer learning everyday and improving.</h3>
+
+See [my website](https://brandondiep.netlify.app/) for more information!
 
 - 🌱 I’m currently learning **Node.js**
 
