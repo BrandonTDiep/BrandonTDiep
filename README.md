@@ -127,10 +127,7 @@ See [my website](https://brandondiep.netlify.app/) for more information!
           </a>
         </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Blossom Hair Salon site debuting stylists, gallery of looks and services.</p>
-    </td>    
-  </tr>
-
-  <tr>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Brandon Diep Portfolio</h3>
         <br />
@@ -147,8 +144,9 @@ See [my website](https://brandondiep.netlify.app/) for more information!
           </a>
         </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>    
+    </td>   
   </tr>
+
 
   
 
