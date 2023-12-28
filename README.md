@@ -17,7 +17,7 @@
 
 See [my website](https://brandondiep.netlify.app/) for more information!
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **Express.js**
 
 - 💬 Ask me about **HTML, CSS, JavaScript**
 
