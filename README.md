@@ -17,9 +17,9 @@
 
 See [my website](https://brandondiep.netlify.app/) for more information!
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **more React.js**
 
-- 💬 Ask me about **HTML, CSS, JavaScript**
+- 💬 Ask me about **HTML, CSS, JavaScript, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **brandondiep2711@gmail.com**
 
