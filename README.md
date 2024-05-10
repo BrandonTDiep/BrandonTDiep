@@ -36,6 +36,23 @@ See [my website](https://brandondiep.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">MovieTime</h3>
+        <br />
+        <a target="_blank" href="http://129.153.90.80:3000/">
+            <img src="images/movietime.gif" width="100%" alt="Cookie Clicker Game Gif"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/BrandonTDiep/MovieTime" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://movietime-84jm.onrender.com" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>HTML5, CSS3, Javascript, Node.js, Express.js, MongoDB</strong> - Movie Review site allowing users to create reviews and follow each other</p>
+    </td>  
+    <td width="50%" valign="top">
       <h3 align="center">Cookie Clicker Game</h3>
         <br />
         <a target="_blank" href="http://129.153.90.80:3000/">
@@ -51,24 +68,7 @@ See [my website](https://brandondiep.netlify.app/) for more information!
           </a>
         </p>
         <p><strong>React, Django</strong> - Cookie Clicker Game with online saves and a leaderboard.</p>
-    </td>  
-    <td width="50%" height="10%" valign="top">
-      <h3 align="center">Mama's Recipes</h3>
-        <br />
-      <a target="_blank" href="https://github.com/BrandonTDiep/mama-recipe">
-            <img src="images/mama-recipe.gif" width="100%"  alt="Mama's Recipes Gif"/>
-        </a>
-        <br />
-        <p align="center">
-          <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/
-          </a>
-<!--           <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-          </a> -->
-        </p>
-        <p><strong>Dart, Flutter, Firebase</strong> - Mama's Recipe app made for anyone looking for an easy way to save their beloved mama's recipes.</p>
-    </td>    
+    </td>      
   </tr>
 
   
@@ -91,27 +91,6 @@ See [my website](https://brandondiep.netlify.app/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Stargazers Society site integrating NASA API APOD to display astronomy picture of the day and its description.</p>
     </td>   
     <td width="50%" valign="top">
-      <h3 align="center">Patient Scheduling System</h3>
-        <br />
-        <a target="_blank" href="https://github.com/CS3560-01-2-patient/patient-scheduling-system">
-            <img src="images/pss.gif" width="100%" alt="Patient Scheduling System Gif"/>
-        </a>
-        <br />
-        <p align="center">
-          <a href="https://github.com/CS3560-01-2-patient/patient-scheduling-system" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
-          </a>  
-<!--           <a href="https://github.com/CS3560-01-2-patient/patient-scheduling-system" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
-          </a> -->
-        </p>
-        <p><strong>Java, SQL</strong> - A Patient Scheduling System helping patients create an account and schedule appointments.</p>
-    </td>     
-  </tr>
-
-
-  <tr>
-    <td width="50%" valign="top">
       <h3 align="center">Blossom Hair Salon</h3>
         <br />
         <a target="_blank" href="https://blossomhairsalon.netlify.app/">
@@ -127,7 +106,28 @@ See [my website](https://brandondiep.netlify.app/) for more information!
           </a>
         </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Blossom Hair Salon site debuting stylists, gallery of looks and services.</p>
-    </td>
+    </td>    
+  </tr>
+
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Patient Scheduling System</h3>
+        <br />
+        <a target="_blank" href="https://github.com/CS3560-01-2-patient/patient-scheduling-system">
+            <img src="images/pss.gif" width="100%" alt="Patient Scheduling System Gif"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/CS3560-01-2-patient/patient-scheduling-system" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+          </a>  
+<!--           <a href="https://github.com/CS3560-01-2-patient/patient-scheduling-system" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+          </a> -->
+        </p>
+        <p><strong>Java, SQL</strong> - A Patient Scheduling System helping patients create an account and schedule appointments.</p>
+    </td> 
     <td width="50%" valign="top">
       <h3 align="center">Brandon Diep Portfolio</h3>
         <br />
@@ -146,6 +146,37 @@ See [my website](https://brandondiep.netlify.app/) for more information!
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>   
   </tr>
+
+  <tr>
+      <td width="50%" height="10%" valign="top">
+        <h3 align="center">Mama's Recipes</h3>
+          <br />
+        <a target="_blank" href="https://github.com/BrandonTDiep/mama-recipe">
+              <img src="images/mama-recipe.gif" width="100%"  alt="Mama's Recipes Gif"/>
+          </a>
+          <br />
+          <p align="center">
+            <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/
+            </a>
+  <!--           <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+            </a> -->
+          </p>
+          <p><strong>Dart, Flutter, Firebase</strong> - Mama's Recipe app made for anyone looking for an easy way to save their beloved mama's recipes.</p>
+      </td> 
+  </tr>
+
+
+
+
+
+
+
+
+
+
+  
 
 
   
