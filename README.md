@@ -17,7 +17,7 @@
 
 - 👨‍💻 All of my projects are available at [https://brandondiep.netlify.app/](https://brandondiep.netlify.app/)
 
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, HTML, CSS, JavaScript**
+- 💬 Ask me about **React, Express.js,  Node.js, MongoDB, HTML, CSS, JavaScript**
 
 - 📫 How to reach me **brandondiep2711@gmail.com**
 
