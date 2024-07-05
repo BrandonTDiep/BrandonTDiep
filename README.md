@@ -66,21 +66,21 @@
         <p><strong>HTML5, CSS3, Javascript, Node.js, Express.js, MongoDB</strong> - Movie Review site allowing users to create reviews and follow each other.</p>
     </td>  
     <td width="50%" valign="top">
-      <h3 align="center">Cookie Clicker Game</h3>
+      <h3 align="center">B-commerce</h3>
         <br />
-        <a target="_blank" href="http://129.153.90.80:3000/">
-            <img src="images/cookie-clicker.gif" width="100%" alt="Cookie Clicker Game Gif"/>
+        <a target="_blank" href="https://b-commerce-client.onrender.com/">
+            <img src="images/b-commerce.gif" width="100%" alt="B-commerce Gif"/>
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/CS4650FallSemester2023/FinalProject" target="_blank">
+          <a href="https://github.com/BrandonTDiep/B-commerce" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
           </a>  
           <a href="http://129.153.90.80:3000/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
           </a>
         </p>
-        <p><strong>React, Django</strong> - Cookie Clicker Game with online saves and a leaderboard.</p>
+        <p><strong>React, Express.js, Node.js, MongoDB</strong> - E-commerce site for users to search, save, and add products to your cart.</p>
     </td>      
   </tr>
 
@@ -104,64 +104,81 @@
         <p><strong>HTML5, CSS3, Javascript, & Flask</strong> - Civil Engr. Faculty Search Engine for information based on various research interests, publications, and more.</p>
     </td> 
     <td width="50%" valign="top">
-      <h3 align="center">Stargazers Society</h3>
-        <br />
-        <a target="_blank" href="https://stargazerssociety.netlify.app/">
-            <img src="images/stargazer.gif" width="100%" alt="Stargazers Society Gif"/>
-        </a>
-        <br />
-        <p align="center">
-          <a href="https://github.com/BrandonTDiep/Stargazers-Society" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
-          </a>  
-          <a href="https://stargazerssociety.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+        <h3 align="center">Cookie Clicker Game</h3>
+          <br />
+          <a target="_blank" href="http://129.153.90.80:3000/">
+              <img src="images/cookie-clicker.gif" width="100%" alt="Cookie Clicker Game Gif"/>
           </a>
-        </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Stargazers Society site integrating NASA API APOD to display astronomy picture of the day and its description.</p>
-    </td>   
-
+          <br />
+          <p align="center">
+            <a href="https://github.com/CS4650FallSemester2023/FinalProject" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+            </a>  
+            <a href="http://129.153.90.80:3000/" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, Django</strong> - Cookie Clicker Game with online saves and a leaderboard.</p>
+      </td> 
   </tr>
 
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Blossom Hair Salon</h3>
-        <br />
-        <a target="_blank" href="https://blossomhairsalon.netlify.app/">
-            <img src="images/blossomhairsalon.gif" width="100%" alt="Blossom Hair Salon Gif"/>
-        </a>
-        <br />
-        <p align="center">
-          <a href="https://github.com/BrandonTDiep/Blossom-Hair-Salon" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
-          </a>  
-          <a href="https://blossomhairsalon.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+        <h3 align="center">Stargazers Society</h3>
+          <br />
+          <a target="_blank" href="https://stargazerssociety.netlify.app/">
+              <img src="images/stargazer.gif" width="100%" alt="Stargazers Society Gif"/>
           </a>
-        </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Blossom Hair Salon site debuting stylists, gallery of looks and services.</p>
-    </td>   
+          <br />
+          <p align="center">
+            <a href="https://github.com/BrandonTDiep/Stargazers-Society" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+            </a>  
+            <a href="https://stargazerssociety.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>HTML5, CSS3, & Javascript</strong> - Stargazers Society site integrating NASA API APOD to display astronomy picture of the day and its description.</p>
+    </td>     
     <td width="50%" valign="top">
-      <h3 align="center">Brandon Diep Portfolio</h3>
-        <br />
-        <a target="_blank" href="https://brandondiep.netlify.app/">
-            <img src="images/bd-portfolio.gif" width="100%" alt="Brandon Diep Portfolio Gif"/>
-        </a>
-        <br />
-        <p align="center">
-          <a href="https://github.com/BrandonTDiep/Portfolio" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
-          </a>  
-          <a href="https://brandondiep.netlify.app/" target="_blank">
-            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+        <h3 align="center">Blossom Hair Salon</h3>
+          <br />
+          <a target="_blank" href="https://blossomhairsalon.netlify.app/">
+              <img src="images/blossomhairsalon.gif" width="100%" alt="Blossom Hair Salon Gif"/>
           </a>
-        </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-    </td>   
+          <br />
+          <p align="center">
+            <a href="https://github.com/BrandonTDiep/Blossom-Hair-Salon" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+            </a>  
+            <a href="https://blossomhairsalon.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>HTML5, CSS3, & Javascript</strong> - Blossom Hair Salon site debuting stylists, gallery of looks and services.</p>
+      </td>   
   </tr>
+  
 
   <tr>
+      <td width="50%" valign="top">
+        <h3 align="center">Brandon Diep Portfolio</h3>
+          <br />
+          <a target="_blank" href="https://brandondiep.netlify.app/">
+              <img src="images/bd-portfolio.gif" width="100%" alt="Brandon Diep Portfolio Gif"/>
+          </a>
+          <br />
+          <p align="center">
+            <a href="https://github.com/BrandonTDiep/Portfolio" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+            </a>  
+            <a href="https://brandondiep.netlify.app/" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+      </td>  
       <td width="50%" valign="top">
         <h3 align="center">Patient Scheduling System</h3>
           <br />
@@ -178,8 +195,12 @@
             </a> -->
           </p>
           <p><strong>Java, SQL</strong> - Patient Scheduling System helping patients create an account and schedule appointments.</p>
-      </td> 
-      <td width="50%" height="10%" valign="top">
+      </td>
+  </tr>
+
+
+  <tr>
+    <td width="50%" height="10%" valign="top">
         <h3 align="center">Mama's Recipes</h3>
           <br />
         <a target="_blank" href="https://github.com/BrandonTDiep/mama-recipe">
@@ -196,7 +217,7 @@
           </p>
           <p><strong>Dart, Flutter, Firebase</strong> - Mama's Recipe app made for anyone looking for an easy way to save their beloved mama's recipes.</p>
       </td> 
-  </tr>
+   </tr>
 
 
 
