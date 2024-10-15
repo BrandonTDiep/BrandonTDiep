@@ -97,9 +97,9 @@
           <a href="https://github.com/CastroIROCZ/4250.01-Search-Engine-Project" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
           </a>  
-<!--           <a href="https://civil-eng-search-engine.onrender.com/" target="_blank">
+          <a href="https://civil-eng-search-engine.onrender.com/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
-          </a> -->
+          </a>
         </p>
         <p><strong>HTML5, CSS3, Javascript, & Flask</strong> - Civil Engr. Faculty Search Engine for information based on various research interests, publications, and more.</p>
     </td> 
