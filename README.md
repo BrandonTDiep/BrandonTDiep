@@ -51,7 +51,7 @@
     <td width="50%" valign="top">
       <h3 align="center">MovieTime</h3>
         <br />
-        <a target="_blank" href="http://129.153.90.80:3000/">
+        <a target="_blank" href="https://movietime-84jm.onrender.com">
             <img src="images/movietime.gif" width="100%" alt="Movie Review Site Gif"/>
         </a>
         <br />
@@ -89,7 +89,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Civil Engr. Faculty Search Engine</h3>
         <br />
-        <a target="_blank" href="https://github.com/CastroIROCZ/4250.01-Search-Engine-Project">
+        <a target="_blank" href="https://civil-eng-search-engine.onrender.com">
             <img src="images/search-engine.gif" width="100%" alt="CPP Civil Engr. Faculty Search Engine Gif"/>
         </a>
         <br />
@@ -97,7 +97,7 @@
           <a href="https://github.com/CastroIROCZ/4250.01-Search-Engine-Project" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
           </a>  
-          <a href="https://civil-eng-search-engine.onrender.com/" target="_blank">
+          <a href="https://civil-eng-search-engine.onrender.com" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
           </a>
         </p>
@@ -106,7 +106,7 @@
     <td width="50%" valign="top">
         <h3 align="center">Cookie Clicker Game</h3>
           <br />
-          <a target="_blank" href="http://129.153.90.80:3000/">
+          <a target="_blank" href="https://github.com/CS4650FallSemester2023/FinalProject">
               <img src="images/cookie-clicker.gif" width="100%" alt="Cookie Clicker Game Gif"/>
           </a>
           <br />
