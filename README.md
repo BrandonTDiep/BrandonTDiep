@@ -217,7 +217,7 @@
 
 
   <tr>
-    <td width="50%" height="10%" valign="top">
+<!--     <td width="50%" height="10%" valign="top">
         <h3 align="center">Mama's Recipes</h3>
           <br />
         <a target="_blank" href="https://github.com/BrandonTDiep/mama-recipe">
@@ -227,14 +227,15 @@
           <p align="center">
             <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/
-            </a>
+            </a> -->
   <!--           <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
             </a> -->
-          </p>
+<!--           </p>
           <p><strong>Dart, Flutter, Firebase</strong> - Mama's Recipe app made for anyone looking for an easy way to save their beloved mama's recipes.</p>
-      </td> 
+      </td>  -->
    </tr>
+
 
 
 
