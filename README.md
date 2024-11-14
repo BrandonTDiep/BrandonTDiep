@@ -216,7 +216,6 @@
   </tr>
 
 
-  <tr>
 <!--     <td width="50%" height="10%" valign="top">
         <h3 align="center">Mama's Recipes</h3>
           <br />
@@ -234,7 +233,6 @@
           </p>
           <p><strong>Dart, Flutter, Firebase</strong> - Mama's Recipe app made for anyone looking for an easy way to save their beloved mama's recipes.</p>
       </td>  -->
-   </tr>
 
 
 
