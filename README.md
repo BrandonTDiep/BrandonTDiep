@@ -86,7 +86,7 @@
 
   
   <tr>
-    <td width="50%" valign="top">
+<!--     <td width="50%" valign="top">
       <h3 align="center">Civil Engr. Faculty Search Engine</h3>
         <br />
         <a target="_blank" href="https://civil-eng-search-engine.onrender.com">
@@ -101,7 +101,7 @@
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
           </a>
         </p>
-        <p><strong>HTML5, CSS3, Javascript, & Flask</strong> - Civil Engr. Faculty Search Engine for information based on various research interests, publications, and more.</p>
+        <p><strong>HTML5, CSS3, Javascript, & Flask</strong> - Civil Engr. Faculty Search Engine for information based on various research interests, publications, and more.</p> -->
     </td> 
     <td width="50%" valign="top">
         <h3 align="center">Cookie Clicker Game</h3>
