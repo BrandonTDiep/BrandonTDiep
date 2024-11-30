@@ -86,7 +86,7 @@
 
   
   <tr>
-<!--     <td width="50%" valign="top">
+    <td width="50%" valign="top">
       <h3 align="center">Civil Engr. Faculty Search Engine</h3>
         <br />
         <a target="_blank" href="https://civil-eng-search-engine.onrender.com">
@@ -102,7 +102,7 @@
           </a>
         </p>
         <p><strong>HTML5, CSS3, Javascript, & Flask</strong> - Civil Engr. Faculty Search Engine for information based on various research interests, publications, and more.</p>
-    </td>  -->
+    </td> 
     <td width="50%" valign="top">
         <h3 align="center">Cookie Clicker Game</h3>
           <br />
@@ -119,24 +119,6 @@
             </a> -->
           </p>
           <p><strong>React, Django</strong> - Cookie Clicker Game with online saves and a leaderboard.</p>
-      </td> 
-        <td width="50%" height="10%" valign="top">
-        <h3 align="center">Mama's Recipes</h3>
-          <br />
-        <a target="_blank" href="https://github.com/BrandonTDiep/mama-recipe">
-              <img src="images/mama-recipe.gif" width="100%"  alt="Mama's Recipes Gif"/>
-          </a>
-          <br />
-          <p align="center">
-            <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/
-            </a>
-  <!--           <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-            </a> -->
-          </p>
-          <p><strong>Dart, Flutter, Firebase</strong> - Mama's Recipe app made for anyone looking for an easy way to save their beloved mama's recipes.</p>
-      </td> 
   </tr>
 
 
@@ -215,8 +197,9 @@
       </td>
   </tr>
 
-
-<!--     <td width="50%" height="10%" valign="top">
+  <tr>
+      </td> 
+        <td width="50%" height="10%" valign="top">
         <h3 align="center">Mama's Recipes</h3>
           <br />
         <a target="_blank" href="https://github.com/BrandonTDiep/mama-recipe">
@@ -227,12 +210,14 @@
             <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/
             </a>
-            <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
+  <!--           <a href="https://github.com/BrandonTDiep/mama-recipe" target="_blank">
               <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-            </a>
+            </a> -->
           </p>
           <p><strong>Dart, Flutter, Firebase</strong> - Mama's Recipe app made for anyone looking for an easy way to save their beloved mama's recipes.</p>
-      </td>  -->
+      </td> 
+  </tr>
+
 
 
 
