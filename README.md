@@ -49,21 +49,21 @@
   
   <tr> 
     <td width="50%" valign="top">
-      <h3 align="center">B-commerce</h3>
+      <h3 align="center">SentiMusic</h3>
         <br />
-        <a target="_blank" href="https://b-commerce-client.onrender.com/">
-            <img src="images/b-commerce.gif" width="100%" alt="B-commerce Gif"/>
+        <a target="_blank" href="https://sentimusic.onrender.com">
+            <img src="images/SentiMusic.gif" width="100%" alt="SentiMusic Gif"/>
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/BrandonTDiep/B-commerce" target="_blank">
+          <a href="https://github.com/BrandonTDiep/SentiMusic" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
           </a>  
-          <a href="https://b-commerce-client.onrender.com/" target="_blank">
+          <a href="https://sentimusic.onrender.com" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
           </a>
         </p>
-        <p><strong>React, Express.js, Node.js, MongoDB</strong> - E-commerce site for users to search, save, and add products to your cart.</p>
+        <p><strong>React, Express.js, Node.js, TailwindCSS</strong> - Music Recommender site that provides songs to the user based on their moods or feelings.</p>
     </td> 
     <td width="50%" valign="top">
       <h3 align="center">B-commerce</h3>
