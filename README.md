@@ -15,7 +15,7 @@
 <h1 align="center">Hi 👋, I'm Brandon Diep</h1>
 <h3 align="center">A passionate software engineer and web developer learning everyday and improving.</h3>
 
-- 👨‍💻 All of my projects are available at [https://brandondiep.netlify.app/](https://brandondiep.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://brandondiep.vercel.app](https://brandondiep.vercel.app/)
 
 - 💬 Ask me about **React, Express.js,  Node.js, MongoDB, HTML, CSS, JavaScript**
 
@@ -97,11 +97,11 @@
           <a href="https://github.com/BrandonTDiep/PortfolioV2" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
           </a>  
-          <a href="https://brandondiep.netlify.app/" target="_blank">
+          <a href="https://brandondiep.vercel.app/" target="_blank">
             <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
           </a>
         </p>
-        <p><strong>Next.js, TailwindCSS, sshadcn/ui</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+        <p><strong>Next.js, TailwindCSS, shadcn/ui</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
     </td>
     <td width="50%" valign="top">
         <h3 align="center">My Pokémon Card Facts</h3>
