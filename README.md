@@ -87,6 +87,44 @@
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Brandon Diep Portfolio</h3>
+        <br />
+        <a target="_blank" href="https://brandondiep.vercel.app/">
+            <img src="images/portfolio.gif" width="100%" alt="Brandon Diep Portfolio Gif"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/BrandonTDiep/PortfolioV2" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+          </a>  
+          <a href="https://brandondiep.netlify.app/" target="_blank">
+            <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+          </a>
+        </p>
+        <p><strong>Next.js, TailwindCSS, sshadcn/ui</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
+    </td>
+    <td width="50%" valign="top">
+        <h3 align="center">My Pokémon Card Facts</h3>
+          <br />
+          <a target="_blank" href="https://github.com/BrandonTDiep/MyPokemonCardFacts">
+              <img src="images/pokemon.gif" width="100%" alt="My Pokémon Card Facts Gif"/>
+          </a>
+          <br />
+          <p align="center">
+            <a href="https://github.com/BrandonTDiep/MyPokemonCardFacts" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
+            </a>  
+            <a href="https://mypokemoncardfacts.netlify.app" target="_blank">
+              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
+            </a>
+          </p>
+          <p><strong>React, TailwindCSS, shadcn/ui</strong> - Pokémon card site that provides information and prices on a pokémon.</p>
+    </td>
+  </tr>
+
+
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">MovieTime</h3>
         <br />
         <a target="_blank" href="https://movietime-84jm.onrender.com">
@@ -121,26 +159,9 @@
         <p><strong>HTML5, CSS3, Javascript, & Flask</strong> - Civil Engr. Faculty Search Engine for information based on various research interests, publications, and more.</p>
     </td> 
   </tr>
-
+  
 
   <tr>
-      <td width="50%" valign="top">
-          <h3 align="center">My Pokémon Card Facts</h3>
-            <br />
-            <a target="_blank" href="https://github.com/BrandonTDiep/MyPokemonCardFacts">
-                <img src="images/pokemon.gif" width="100%" alt="My Pokémon Card Facts Gif"/>
-            </a>
-            <br />
-            <p align="center">
-              <a href="https://github.com/BrandonTDiep/MyPokemonCardFacts" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
-              </a>  
-              <a href="https://mypokemoncardfacts.netlify.app" target="_blank">
-                <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
-              </a>
-            </p>
-            <p><strong>React, Tailwind CSS, shadcn/ui</strong> - Pokémon card site that provides information and prices on a pokémon.</p>
-      </td>
       <td width="50%" valign="top">
         <h3 align="center">Cookie Clicker Game</h3>
           <br />
@@ -158,10 +179,6 @@
           </p>
           <p><strong>React, Django</strong> - Cookie Clicker Game with online saves and a leaderboard.</p>
     </td>
-  </tr>
-  
-
-  <tr>
     <td width="50%" valign="top">
         <h3 align="center">Stargazers Society</h3>
           <br />
@@ -178,24 +195,7 @@
             </a>
           </p>
           <p><strong>HTML5, CSS3, & Javascript</strong> - Stargazers Society site integrating NASA API APOD to display astronomy picture of the day and its description.</p>
-    </td>   
-      <td width="50%" valign="top">
-        <h3 align="center">Brandon Diep Portfolio</h3>
-          <br />
-          <a target="_blank" href="https://brandondiep.netlify.app/">
-              <img src="images/bd-portfolio.gif" width="100%" alt="Brandon Diep Portfolio Gif"/>
-          </a>
-          <br />
-          <p align="center">
-            <a href="https://github.com/BrandonTDiep/Portfolio" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logoColor=white"/>
-            </a>  
-            <a href="https://brandondiep.netlify.app/" target="_blank">
-              <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logoColor=white"/>
-            </a>
-          </p>
-          <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
-      </td>  
+    </td>     
   </tr>
 
   <tr>
